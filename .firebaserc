@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chat-room-21b13": {
+      "hosting": {
+        "chat": [
+          "chat-room-21b13"
+        ]
+      }
+    }
+  }
+}
